@@ -20,9 +20,10 @@ class MatTest {
     @Test
     void avgArray() {
     }
-        @Test
-        void isMatrixSquare () {
-            Mat[][] mat = new Mat[5][5];
-            assertEquals(Mat[5],[5])
+
+    @Test
+    void isMatrixSquare() {
+        Mat[][] mat = new Mat[5][5];
+        assertEquals(5,5);
     }
 }
